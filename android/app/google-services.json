@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "241734078906",
+    "project_id": "cab-up-35317",
+    "storage_bucket": "cab-up-35317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241734078906:android:eb232a8d159f01d0974d83",
+        "android_client_info": {
+          "package_name": "com.cabup.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241734078906-7pl17bjcv5keb2b13ftevds4cp0rmd2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cabup.rider",
+            "certificate_hash": "c0e0becf19a962427ef698133e41faf48dfcf968"
+          }
+        },
+        {
+          "client_id": "241734078906-iv2g3ndbjaup82p5gb4q1cu4u8m87v4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3p22GkB7E2evrkZnq_-EMtMBHOML1R48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241734078906-iv2g3ndbjaup82p5gb4q1cu4u8m87v4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
